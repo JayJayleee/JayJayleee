@@ -18,4 +18,8 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjayleee)](https://solved.ac/jayjayleee/)
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JayJayleee&theme=rogue)](https://github.com/JayJayleee/github-readme-activity-graph)
+
+
 </div>
