@@ -2,7 +2,7 @@
 <div align = 'center'>
 
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jay's%20GIT&fontSize=80)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=Jay's%20GIT&fontSize=80)
 <br>
 
 ## SKILLS
