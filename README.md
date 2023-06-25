@@ -17,15 +17,8 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=django&logoColor=white)
 <br>
 
-[![JAY's GitHub stats](https://github-readme-stats-bay-rho.vercel.app/api?username=JayJayleee&show_icons=true&theme=tokyonight)](https://github.com/JayJayleee/github-readme-stats)
-
-<br>
-<p>
-  
+[![JAY's GitHub stats](https://github-readme-stats-bay-rho.vercel.app/api?username=JayJayleee&show_icons=true&theme=tokyonight)](https://github.com/JayJayleee/github-readme-stats)  
 [![Top Langs](https://github-readme-stats-bay-rho.vercel.app/api/top-langs/?username=JayJayleee&layout=compact)](https://github.com/JayJayleee/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjayleee)](https://solved.ac/jayjayleee/)
 
-</p>
-
-</div>
+<div>
