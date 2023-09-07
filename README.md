@@ -5,7 +5,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=Jay's%20GIT&fontSize=80)
 <br>
 
-## SKILLS
+## SKILL
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
