@@ -20,7 +20,7 @@ jobs:
 
           # Options
           user: JayJayleee
-          template: repository
+          template: classic
           base: ""
           config_timezone: Asia/Seoul
           plugin_fortune: yes
