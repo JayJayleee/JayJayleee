@@ -9,7 +9,7 @@
 👌 새로운 개발 지식을 배우는 과정을 즐기고, <b>팀원들과 함께 발전할 수 있는 분위기</b>를 좋아합니다:)
 
  </br></br>
-  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" height="40%">
+  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" height="30%">
 <h2>About me😎</h2>
 <h3><img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"> 최근 일상은 : </h3> 
 
