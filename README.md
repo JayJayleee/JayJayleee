@@ -9,7 +9,7 @@
 👌 새로운 개발 지식을 배우는 과정을 즐기고, <b>팀원들과 함께 발전할 수 있는 분위기</b>를 좋아합니다:)
 
  </br></br>
-  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="40%">
+  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="60%">
 <h2>About me😎</h2>
 <h3><img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"> 최근 일상은 : </h3> 
 
@@ -30,7 +30,7 @@
 </br>
 <h2>📈 GitHub Stats:</h2>
 <div align="center">
-<img src="/github-metrics.svg" alt="Metrics" width="70%">
+<img src="/github-metrics.svg" alt="Metrics" width="80%">
 <p>
 <img height="180em" src="https://github-readme-stats-bay-rho.vercel.app/api?username=JayJayleee&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJayleee&langs_count=10&layout=compact&hide_border=true"/>
