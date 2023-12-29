@@ -1,5 +1,5 @@
 <div width="100%">
-<h1> 안녕하세요, 개발자 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4">신지원</a>입니다.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1> 안녕하세요, </br>개발자 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4">신지원</a>입니다.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <a href="https://velog.io/@acd0825/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/JayJayLeee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
@@ -9,8 +9,9 @@
 👌 새로운 개발 지식을 배우는 과정을 즐기고, <b>팀원들과 함께 발전할 수 있는 분위기</b>를 좋아합니다:)
 
  </br></br>
-  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="60%">
+
 <h2>About me😎</h2>
+  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="60%">
 <h3><img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"> 최근 일상은 : </h3> 
 
 <p> ✔ 나만의 컴포넌트 라이브러리를 작업하고 있어요!</p>
