@@ -1,7 +1,6 @@
 <div width="100%">
 <h1> 안녕하세요, </br>개발자 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4">신지원</a>입니다.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <a href="https://velog.io/@acd0825/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/JayJayLeee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </br></br>
 ☝️ 사용자가 <b>원하는 기능을 쉽게 사용할 수 있는 서비스</b>를 구현할 수 있는 개발자가 되기 위해 고민하고, 꾸준히 학습합니다!✏️</br>
