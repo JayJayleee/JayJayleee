@@ -10,7 +10,7 @@
  </br></br>
 
 <h2>About me😎</h2>
-  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="60%">
+  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="50%">
 <h3><img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"> 최근 일상은 : </h3> 
 
 <p> ✔ 나만의 컴포넌트 라이브러리를 작업하고 있어요!</p>
