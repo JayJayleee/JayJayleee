@@ -12,13 +12,9 @@
  </br></br>
 
 <h2>About me😎</h2>
-  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="50%">
-<h3><img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"> 최근 일상은 : </h3> 
+  <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="30%">
 
-<p> ✔ 코테 공부 & 포폴 만들기...</p>
-</br>
 <h3><img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif"width="27">  열심히 공부 중: </h3> 
-<p> ✔ Next.js를 새롭게 배우고 있어요! </p>
 <p> ✔ 알고리즘/CS 공부를 꾸준히 하려고 노력합니다!</p>
 </br>
 <h3> <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="25"> 생각날 때 마다 기록 합니다! </h3> 
