@@ -12,6 +12,7 @@
  </br></br>
 
 <h2>About me😎</h2>
+
   <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="30%">
 
 <h3><img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif"width="27">  열심히 공부 중: </h3> 
@@ -21,6 +22,7 @@
 <p> ✔ <a href="https://velog.io/@acd0825/posts">여기</a>에 새롭게 배운 것, 나의 생각을 기록합니다. </p>
 </br>
 </br>
+
 <h2>📈 GitHub Stats:</h2>
 <div align="center">
 <img src="/github-metrics.svg" alt="Metrics" width="80%">
