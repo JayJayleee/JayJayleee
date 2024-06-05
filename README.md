@@ -1,13 +1,3 @@
-<div>
-<h1> 안녕하세요, </br>개발자 <a href="https://aware-mammal-19d.notion.site/Jiwon-Shin-aabe8ccf5af84e5ba060b566143f2d66?pvs=4">신지원</a>입니다.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-
-</br></br>
-☝️ 사용자가 <b>원하는 기능을 쉽게 사용할 수 있는 서비스</b>를 구현할 수 있는 개발자가 되기 위해 고민하고, 꾸준히 학습합니다!✏️</br>
-✌️ 기획자로 근무한 경험을 바탕으로 <b>서비스의 가치를 이해하고, 빈 틈 없이 꼼꼼한 서비스를 개발</b>하기 위해 노력합니다.</br>
-👌 새로운 개발 지식을 배우는 과정을 즐기고, <b>팀원들과 함께 발전할 수 있는 분위기</b>를 좋아합니다:)
-
- </br></br>
-
 <h2>About me😎</h2>
 
   <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="40%">
