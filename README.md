@@ -1,4 +1,4 @@
-<h2>About me😎</h2>
+<h2>Hello, I'm Jiwon😎</h2>
 
   <img align="right" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="40%">
 </br>
